@@ -15,6 +15,7 @@ Trevor Prendergast - Head of Department - Athlone Institute of Technology
 José Simão - Assistant Professor - Lisbon Polytechnic Institute - Engineering School 
 Posco Tso - Senior Lecturer - Loughborough University  
 Laurie White - Professor Emeritas and Facilitator - Google
+András Ács - Associate Professor - Zealand Institute of Business and Technology
 
 # Contributing
 
